@@ -4,7 +4,7 @@ class Main {
 		Student s2 = new Student(10);
 		Student s3 = new Student(100, "Abhi");
 		
-		System.out.println(s1);
+		//System.out.println(s1);
 		System.out.println(s2);
 		System.out.println(s3);
 	}
